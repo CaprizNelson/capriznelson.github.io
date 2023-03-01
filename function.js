@@ -1,0 +1,4 @@
+
+function myFunc(){
+   window.print()
+}
